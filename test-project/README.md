@@ -1,8 +1,7 @@
 # Today Design
 
-## 기획 의도 및 사이트 소개
+## 배포주소
+https://sjerry-kim.github.io/Portfolio_teamC/
 
-## 사이트 시연
-
-## 파트 분배
-
+## 프로젝트 소개 
+[teamC.pdf](https://github.com/jinhee0826/-Project-teamC/files/11815229/teamC.pdf)
